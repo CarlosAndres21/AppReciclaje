@@ -1,10 +1,11 @@
 # AppReciclaje
 Desarrollo de una aplicación móvil para el reciclaje 
 #Tareas para el usuario
-## 1. Seguir los pasos del reciclaje
-* Ingresar a la opción de pasos de reciclaje 
-* Observar los iconos y seleccionar uno para ver los pasos de cómo reciclarlo 
-* Puede regresar a la página de los iconos a seleccionar
+## 1. Crearse una cuenta
+* Abre la aplicacion 
+* da en el boton de registrarse 
+* llena todos los campos 
+* da en el boton de crear cuenta 
 ## 2. Poder editar su nombre o email
 * Una vez ingreasdo a su cuenta va a la opcion de modificar cuenta
 * Click en el boton modificar
@@ -20,12 +21,7 @@ Desarrollo de una aplicación móvil para el reciclaje
 * Va al menu principal 
 * escoge la opcion de eventos de reciclaje
 * podra observar diferentes eventos 
-## 5. Crearse una cuenta
-* Abre la aplicacion 
-* da en el boton de registrarse 
-* llena todos los campos 
-* da en el boton de crear cuenta 
-## 6. Aprender a cómo reciclar
+## 5. Aprender a cómo reciclar
 * Ingresa al menú principal 
 * esoge la opcion de pasos para reciclar 
 * se le despliega varias opciones de reciclaje
