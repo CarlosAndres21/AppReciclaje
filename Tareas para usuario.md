@@ -1,6 +1,6 @@
 # AppReciclaje
 Desarrollo de una aplicación móvil para el reciclaje 
-#Tareas para el usuario
+# Tareas para el usuario
 ## 1. Crearse una cuenta
 * Abre la aplicacion 
 * da en el boton de registrarse 
