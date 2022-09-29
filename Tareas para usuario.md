@@ -1,17 +1,17 @@
 # AppReciclaje
 Desarrollo de una aplicación móvil para el reciclaje 
 # Tareas para el usuario
-## 1. Crearse una cuenta
+## 1. Registro una cuenta
 * Abre la aplicacion 
 * da en el boton de registrarse 
 * llena todos los campos 
 * da en el boton de crear cuenta 
-## 2. Poder editar su nombre o email
-* Una vez ingreasdo a su cuenta va a la opcion de modificar cuenta
-* Click en el boton modificar
-* se abre una las opciones de modificar
-* puede modificar su usuario o correo electronico
-* puede dar en aceptar o cancelar
+## 2. Conctacto recicladores 
+* 
+* 
+* 
+* 
+* 
 ## 3. Poder ver la ubicación de los puntos de reciclaje
 * Va al menu principañ
 * escoge la opcion de puntos de reciclaje 
