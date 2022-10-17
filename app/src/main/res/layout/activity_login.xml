@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity"
+    android:background="@drawable/bg_aplicacion1">
+
+
+    <LinearLayout
+        android:id="@+id/linearParte1"
+        android:layout_width="307dp"
+        android:layout_height="242dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="104dp"
+        android:layout_marginTop="2dp"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="158dp"
+            android:rotationX="-4"
+            android:src="@drawable/logo_recicla2">
+
+        </ImageView>
+
+        <TextView
+            android:id="@+id/txtReciclaYa"
+            android:layout_width="match_parent"
+            android:layout_height="78dp"
+            android:gravity="center|center_horizontal"
+            android:text="RECICLA YA"
+            android:textAlignment="center"
+            android:textSize="40sp" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearParte2"
+        android:layout_width="match_parent"
+        android:layout_height="314dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="149dp"
+        android:orientation="vertical"
+        android:gravity="center">
+
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginTop="30dp"
+            android:text="@string/label_start_session"
+            android:textAlignment="center"
+            android:textSize="30sp" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/txtInputUsuario"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/label_usuario"
+            app:startIconDrawable="@drawable/ic_email">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/edtMail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/poppins_medium"
+                android:inputType="textEmailAddress"
+                android:textSize="15sp" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/txtInputPassword"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/label_password"
+            app:startIconDrawable="@drawable/ic_lock">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/edtPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/poppins_medium"
+                android:inputType="textPassword"
+                android:textSize="15sp" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/san_francisco"
+            android:gravity="center|center_horizontal"
+            android:text="@string/label_olvide_password"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearParte3"
+        android:layout_width="419dp"
+        android:layout_height="164dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="-8dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="0dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:id="@+id/btIniciarSesion"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:layout_margin="14dp"
+            android:layout_weight="0.5"
+            android:backgroundTint="@color/black"
+            android:drawableEnd="@drawable/ic_loginbl"
+            android:text="@string/label_start_session" />
+
+        <Button
+            android:id="@+id/btRegistrarse"
+            android:layout_width="187dp"
+            android:layout_height="60dp"
+            android:layout_margin="14dp"
+            android:layout_weight="0.5"
+            android:backgroundTint="@color/black"
+            android:drawableEnd="@drawable/ic_registrarsbl"
+            android:text="@string/label_registrarse" />
+
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>

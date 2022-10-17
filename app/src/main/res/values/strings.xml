@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">RciclaYa_App_3</string>
+    <string name="label_usuario">Correo Electrónico</string>
+    <string name="label_password">Contraseña</string>
+    <string name="label_start_session">Iniciar Sesión</string>
+    <string name="label_nuevoUser"><u>Nuevo Usuario ? Registrarme Ahora</u></string>
+    <string name="label_olvide_password">Olvide mi contraseña ?</string>
+    <string name="label_bienvenida">Hola ! - Identifíquese para iniciar sesión</string>
+    <string name="title_activity_inicio">InicioActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Alexander Fuentes Medina</string>
+    <string name="nav_header_subtitle">afuentes@live.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Cerrar Sesión</string>
+    <string name="descripcion_platillo">Esta rica ensalada norteña viene acompañada con su rica
+        lechuga, tomates, cebollas, choclos fresca, además incluye su buen refrescos para acompañar este exquisito
+        platillo preparado por nuestros grandes chef norteños del Perú.</string>
+    <string name="label_registrarse">Registrarse</string>
+    <string name="label_nombre">Nombre</string>
+    <string name="label_apellido">Apellido</string>
+    <string name="label_crear">Crear Cuenta</string>
+
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Mis Compras</string>
+    <string name="menu_slideshow">Configuración</string>
+    <string name="add_shop">Añadir al Carrito</string>
+    <string name="comprar_p">Comprar</string>
+    <string-array name="tipoDoc">
+        <item>DNI</item>
+        <item>RUC</item>
+        <item>CARNET EXT.</item>
+        <item>PASAPORTE</item>
+    </string-array>
+    <string-array name="departamentos">
+        <item>Lambayeque</item>
+        <item>Piura</item>
+        <item>Tumbes</item>
+        <item>Lima</item>
+    </string-array>
+    <string-array name="provincias">
+        <item>Chiclayo</item>
+        <item>Lambayeque</item>
+        <item>Ferreñafe</item>
+    </string-array>
+    <string-array name="distritos">
+        <item>Ferreñafe</item>
+        <item>Pueblo Nuevo</item>
+        <item>Mesones Muro</item>
+        <item>Inkahuasi</item>
+        <item>Kañaris</item>
+    </string-array>
+
+</resources>

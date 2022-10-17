@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "884184566910",
+    "project_id": "reciclaya-c685c",
+    "storage_bucket": "reciclaya-c685c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884184566910:android:204273835aed4814821c2f",
+        "android_client_info": {
+          "package_name": "com.example.rciclaya_app_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884184566910-9q23b6evgtj4i83831som7arc779mrc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD72TSUGoG_SNNvdeY-dSFdYg65gbwyRTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884184566910-9q23b6evgtj4i83831som7arc779mrc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
