@@ -8,14 +8,14 @@ Desarrollo de una aplicación móvil para el reciclaje
 * Dentro de la pantalla podrá visualizar a los diferentes recicladores con su número de contacto.
 * El usuario se contactará con el reciclador mediante una llamada para poder acordar una fecha y hora.
 
-## 2. Poder ver la ubicación de los puntos de reciclaje
+## 2. Visualizar los puntos de reciclaje
 * Desde el menú principal
 * Escoje la opcion de "Puntos de reciclaje" 
 * Da click en el boton de ubicación 
 * Se le despliega una pantalla donde podrá ver los puntos de reciclaje
 * Cuando el usuario seleccione un punto de reciclaje, se le redireccionará a Google Maps y así pueda llegar a esa ubicación.
 
-## 3. Poder ver los eventos de reciclaje
+## 3. Visualizar los eventos de reciclaje
 * Desde el menú principal 
 * Escoje la opcion de "Eventos de reciclaje"
 * Se le despliega una pantalla donde podrá encontrar lod diferentes eventos que habrá de reciclaje
